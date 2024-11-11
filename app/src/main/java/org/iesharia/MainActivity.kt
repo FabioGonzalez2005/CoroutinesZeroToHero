@@ -20,8 +20,6 @@ import org.iesharia.coroutineszerotohero.ui.theme.CoroutinesZeroToHeroTheme
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
-import org.iesharia.Comment
-import org.iesharia.RetrofitHelper
 import retrofit2.Response
 
 class MainActivity : ComponentActivity() {
