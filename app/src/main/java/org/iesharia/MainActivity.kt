@@ -61,7 +61,6 @@ fun CommentList(comments: List<Comment>) {
         }
     }
 }
-
 @Composable
 fun CommentItem(comment: Comment) {
     Column {
